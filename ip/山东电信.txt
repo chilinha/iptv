@@ -1,3 +1,2 @@
-lifuhai.ddnsfree.com:12345
+144.255.17.2:12345
 sunny2017.cn:7788
-www.sunny2017.online:7788
