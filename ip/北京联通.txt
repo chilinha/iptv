@@ -1,3 +1,3 @@
-miwifi.dbus.io:8622
 wuyanjiang.cn:8012
 www.chutouge.top:34022
+xuxf2019.picp.net:5766
