@@ -26,7 +26,7 @@ CCTV15,http://221.196.136.46:9998/rtp/225.1.2.194:5002
 CCTV16,http://221.196.136.46:9998/rtp/225.1.2.237:5002
 CCTV17,http://221.196.136.46:9998/rtp/225.1.2.52:5002
 CCTV4K,http://221.196.136.46:9998/rtp/225.1.2.245:5002
-地方频道,#genre#
+卫视频道,#genre#
 广东卫视,http://221.196.136.46:9998/rtp/225.1.1.116:5002
 甘肃卫视,http://221.196.136.46:9998/rtp/225.1.1.159:5002
 海南卫视,http://221.196.136.46:9998/rtp/225.1.2.82:5002
@@ -127,7 +127,7 @@ CCTV15,http://aiyiya.top:4022/rtp/225.1.2.194:5002
 CCTV16,http://aiyiya.top:4022/rtp/225.1.2.237:5002
 CCTV17,http://aiyiya.top:4022/rtp/225.1.2.52:5002
 CCTV4K,http://aiyiya.top:4022/rtp/225.1.2.245:5002
-地方频道,#genre#
+卫视频道,#genre#
 广东卫视,http://aiyiya.top:4022/rtp/225.1.1.116:5002
 甘肃卫视,http://aiyiya.top:4022/rtp/225.1.1.159:5002
 海南卫视,http://aiyiya.top:4022/rtp/225.1.2.82:5002
@@ -228,7 +228,7 @@ CCTV15,http://nginx.hssvm.com:8888/rtp/225.1.2.194:5002
 CCTV16,http://nginx.hssvm.com:8888/rtp/225.1.2.237:5002
 CCTV17,http://nginx.hssvm.com:8888/rtp/225.1.2.52:5002
 CCTV4K,http://nginx.hssvm.com:8888/rtp/225.1.2.245:5002
-地方频道,#genre#
+卫视频道,#genre#
 广东卫视,http://nginx.hssvm.com:8888/rtp/225.1.1.116:5002
 甘肃卫视,http://nginx.hssvm.com:8888/rtp/225.1.1.159:5002
 海南卫视,http://nginx.hssvm.com:8888/rtp/225.1.2.82:5002
