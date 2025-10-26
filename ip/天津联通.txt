@@ -1,3 +1,0 @@
-60.27.20.121:5555
-home.techua.net:8000
-sun.woisun.com:5555
