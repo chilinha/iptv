@@ -1,3 +1,0 @@
-123.118.230.245:9090
-www.otangtang.com:38848
-zb.hexuntong.net:8188
