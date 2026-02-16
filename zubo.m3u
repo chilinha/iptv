@@ -1,574 +1,606 @@
 #EXTM3U url-tvg="http://e.erw.cc/e.xml"
 #EXTINF:-1 group-title="天津频道",天津卫视
-http://60.24.56.47:4032/rtp/225.1.1.111:5002
+http://home.techua.cn:8000/rtp/225.1.1.111:5002
 #EXTINF:-1 group-title="天津频道",天津新闻
-http://60.24.56.47:4032/rtp/225.1.1.130:5002
+http://home.techua.cn:8000/rtp/225.1.1.130:5002
 #EXTINF:-1 group-title="天津频道",天津文艺
-http://60.24.56.47:4032/rtp/225.1.1.131:5002
+http://home.techua.cn:8000/rtp/225.1.1.131:5002
 #EXTINF:-1 group-title="天津频道",天津影视
-http://60.24.56.47:4032/rtp/225.1.1.149:5002
+http://home.techua.cn:8000/rtp/225.1.1.149:5002
 #EXTINF:-1 group-title="天津频道",天津都市
-http://60.24.56.47:4032/rtp/225.1.1.128:5002
+http://home.techua.cn:8000/rtp/225.1.1.128:5002
 #EXTINF:-1 group-title="天津频道",天津体育
-http://60.24.56.47:4032/rtp/225.1.1.122:5002
+http://home.techua.cn:8000/rtp/225.1.1.122:5002
 #EXTINF:-1 group-title="天津频道",天津教育
-http://60.24.56.47:4032/rtp/225.1.1.129:5002
+http://home.techua.cn:8000/rtp/225.1.1.129:5002
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://60.24.56.47:4032/rtp/225.1.1.120:5002
+http://home.techua.cn:8000/rtp/225.1.1.120:5002
 #EXTINF:-1 group-title="央视频道",CCTV2
-http://60.24.56.47:4032/rtp/225.1.1.133:5002
+http://home.techua.cn:8000/rtp/225.1.1.133:5002
 #EXTINF:-1 group-title="央视频道",CCTV3
-http://60.24.56.47:4032/rtp/225.1.1.158:5002
+http://home.techua.cn:8000/rtp/225.1.1.158:5002
 #EXTINF:-1 group-title="央视频道",CCTV4
-http://60.24.56.47:4032/rtp/225.1.1.150:5002
+http://home.techua.cn:8000/rtp/225.1.1.150:5002
 #EXTINF:-1 group-title="央视频道",CCTV5
-http://60.24.56.47:4032/rtp/225.1.1.160:5002
+http://home.techua.cn:8000/rtp/225.1.1.160:5002
 #EXTINF:-1 group-title="央视频道",CCTV5+
-http://60.24.56.47:4032/rtp/225.1.1.121:5002
+http://home.techua.cn:8000/rtp/225.1.1.121:5002
 #EXTINF:-1 group-title="央视频道",CCTV6
-http://60.24.56.47:4032/rtp/225.1.1.195:5002
+http://home.techua.cn:8000/rtp/225.1.1.195:5002
 #EXTINF:-1 group-title="央视频道",CCTV7
-http://60.24.56.47:4032/rtp/225.1.1.138:5002
+http://home.techua.cn:8000/rtp/225.1.1.138:5002
 #EXTINF:-1 group-title="央视频道",CCTV8
-http://60.24.56.47:4032/rtp/225.1.1.196:5002
+http://home.techua.cn:8000/rtp/225.1.1.196:5002
 #EXTINF:-1 group-title="央视频道",CCTV9
-http://60.24.56.47:4032/rtp/225.1.1.119:5002
+http://home.techua.cn:8000/rtp/225.1.1.119:5002
 #EXTINF:-1 group-title="央视频道",CCTV10
-http://60.24.56.47:4032/rtp/225.1.1.140:5002
+http://home.techua.cn:8000/rtp/225.1.1.140:5002
 #EXTINF:-1 group-title="央视频道",CCTV11
-http://60.24.56.47:4032/rtp/225.1.2.192:5002
+http://home.techua.cn:8000/rtp/225.1.2.192:5002
 #EXTINF:-1 group-title="央视频道",CCTV12
-http://60.24.56.47:4032/rtp/225.1.1.142:5002
+http://home.techua.cn:8000/rtp/225.1.1.142:5002
 #EXTINF:-1 group-title="央视频道",CCTV13
-http://60.24.56.47:4032/rtp/225.1.2.193:5002
+http://home.techua.cn:8000/rtp/225.1.2.193:5002
 #EXTINF:-1 group-title="央视频道",CCTV14
-http://60.24.56.47:4032/rtp/225.1.1.144:5002
+http://home.techua.cn:8000/rtp/225.1.1.144:5002
 #EXTINF:-1 group-title="央视频道",CCTV15
-http://60.24.56.47:4032/rtp/225.1.2.194:5002
+http://home.techua.cn:8000/rtp/225.1.2.194:5002
 #EXTINF:-1 group-title="央视频道",CCTV16
-http://60.24.56.47:4032/rtp/225.1.2.237:5002
+http://home.techua.cn:8000/rtp/225.1.2.237:5002
 #EXTINF:-1 group-title="央视频道",CCTV17
-http://60.24.56.47:4032/rtp/225.1.2.52:5002
+http://home.techua.cn:8000/rtp/225.1.2.52:5002
 #EXTINF:-1 group-title="央视频道",CCTV4K
-http://60.24.56.47:4032/rtp/225.1.2.245:5002
+http://home.techua.cn:8000/rtp/225.1.2.245:5002
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://60.24.56.47:4032/rtp/225.1.1.116:5002
+http://home.techua.cn:8000/rtp/225.1.1.116:5002
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://60.24.56.47:4032/rtp/225.1.1.159:5002
+http://home.techua.cn:8000/rtp/225.1.1.159:5002
 #EXTINF:-1 group-title="卫视频道",海南卫视
-http://60.24.56.47:4032/rtp/225.1.2.82:5002
+http://home.techua.cn:8000/rtp/225.1.2.82:5002
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://60.24.56.47:4032/rtp/225.1.1.165:5002
+http://home.techua.cn:8000/rtp/225.1.1.165:5002
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-http://60.24.56.47:4032/rtp/225.1.1.112:5002
+http://home.techua.cn:8000/rtp/225.1.1.112:5002
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-http://60.24.56.47:4032/rtp/225.1.1.114:5002
+http://home.techua.cn:8000/rtp/225.1.1.114:5002
 #EXTINF:-1 group-title="卫视频道",新疆卫视
-http://60.24.56.47:4032/rtp/225.1.1.166:5002
+http://home.techua.cn:8000/rtp/225.1.1.166:5002
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://60.24.56.47:4032/rtp/225.1.1.147:5002
+http://home.techua.cn:8000/rtp/225.1.1.147:5002
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://60.24.56.47:4032/rtp/225.1.1.123:5002
+http://home.techua.cn:8000/rtp/225.1.1.123:5002
 #EXTINF:-1 group-title="卫视频道",江西卫视
-http://60.24.56.47:4032/rtp/225.1.2.29:5002
+http://home.techua.cn:8000/rtp/225.1.2.29:5002
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://60.24.56.47:4032/rtp/225.1.1.154:5002
+http://home.techua.cn:8000/rtp/225.1.1.154:5002
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://60.24.56.47:4032/rtp/225.1.1.127:5002
+http://home.techua.cn:8000/rtp/225.1.1.127:5002
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://60.24.56.47:4032/rtp/225.1.1.117:5002
+http://home.techua.cn:8000/rtp/225.1.1.117:5002
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-http://60.24.56.47:4032/rtp/225.1.2.26:5002
+http://home.techua.cn:8000/rtp/225.1.2.26:5002
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://60.24.56.47:4032/rtp/225.1.2.31:5002
+http://home.techua.cn:8000/rtp/225.1.2.31:5002
 #EXTINF:-1 group-title="卫视频道",山东卫视
-http://60.24.56.47:4032/rtp/225.1.1.148:5002
+http://home.techua.cn:8000/rtp/225.1.1.148:5002
 #EXTINF:-1 group-title="卫视频道",北京卫视
-http://60.24.56.47:4032/rtp/225.1.1.113:5002
+http://home.techua.cn:8000/rtp/225.1.1.113:5002
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://60.24.56.47:4032/rtp/225.1.2.235:5002
+http://home.techua.cn:8000/rtp/225.1.2.235:5002
 #EXTINF:-1 group-title="卫视频道",河北卫视
-http://60.24.56.47:4032/rtp/225.1.2.27:5002
+http://home.techua.cn:8000/rtp/225.1.2.27:5002
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-http://60.24.56.47:4032/rtp/225.1.1.167:5002
+http://home.techua.cn:8000/rtp/225.1.1.167:5002
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-http://60.24.56.47:4032/rtp/225.1.1.126:5002
+http://home.techua.cn:8000/rtp/225.1.1.126:5002
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://60.24.56.47:4032/rtp/225.1.2.61:5002
+http://home.techua.cn:8000/rtp/225.1.2.61:5002
 #EXTINF:-1 group-title="卫视频道",青海卫视
-http://60.24.56.47:4032/rtp/225.1.1.251:5002
+http://home.techua.cn:8000/rtp/225.1.1.251:5002
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://60.24.56.47:4032/rtp/225.1.1.168:5002
+http://home.techua.cn:8000/rtp/225.1.1.168:5002
 #EXTINF:-1 group-title="卫视频道",兵团卫视
-http://60.24.56.47:4032/rtp/225.1.1.169:5002
+http://home.techua.cn:8000/rtp/225.1.1.169:5002
 #EXTINF:-1 group-title="卫视频道",重庆卫视
-http://60.24.56.47:4032/rtp/225.1.1.155:5002
+http://home.techua.cn:8000/rtp/225.1.1.155:5002
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://60.24.56.47:4032/rtp/225.1.1.250:5002
+http://home.techua.cn:8000/rtp/225.1.1.250:5002
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://60.24.56.47:4032/rtp/225.1.2.28:5002
+http://home.techua.cn:8000/rtp/225.1.2.28:5002
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://60.24.56.47:4032/rtp/225.1.1.115:5002
+http://home.techua.cn:8000/rtp/225.1.1.115:5002
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://60.24.56.47:4032/rtp/225.1.1.182:5002
+http://home.techua.cn:8000/rtp/225.1.1.182:5002
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://60.24.56.47:4032/rtp/225.1.2.81:5002
+http://home.techua.cn:8000/rtp/225.1.2.81:5002
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-http://60.24.56.47:4032/rtp/225.1.1.41:5002
+http://home.techua.cn:8000/rtp/225.1.1.41:5002
 #EXTINF:-1 group-title="卫视频道",山西卫视
-http://60.24.56.47:4032/rtp/225.1.1.50:5002
+http://home.techua.cn:8000/rtp/225.1.1.50:5002
 #EXTINF:-1 group-title="卫视频道",金鹰卡通
-http://60.24.56.47:4032/rtp/225.1.2.236:5002
+http://home.techua.cn:8000/rtp/225.1.2.236:5002
 #EXTINF:-1 group-title="卫视频道",金鹰纪实
-http://60.24.56.47:4032/rtp/225.1.1.124:5002
+http://home.techua.cn:8000/rtp/225.1.1.124:5002
 #EXTINF:-1 group-title="卫视频道",北京纪实科教
-http://60.24.56.47:4032/rtp/225.1.2.30:5002
+http://home.techua.cn:8000/rtp/225.1.2.30:5002
 #EXTINF:-1 group-title="付费频道",风云足球
-http://60.24.56.47:4032/rtp/225.1.2.168:5002
+http://home.techua.cn:8000/rtp/225.1.2.168:5002
 #EXTINF:-1 group-title="付费频道",高尔夫网球
-http://60.24.56.47:4032/rtp/225.1.2.169:5002
+http://home.techua.cn:8000/rtp/225.1.2.169:5002
 #EXTINF:-1 group-title="付费频道",第一剧场
-http://60.24.56.47:4032/rtp/225.1.2.175:5002
+http://home.techua.cn:8000/rtp/225.1.2.175:5002
 #EXTINF:-1 group-title="付费频道",怀旧剧场
-http://60.24.56.47:4032/rtp/225.1.2.173:5002
+http://home.techua.cn:8000/rtp/225.1.2.173:5002
 #EXTINF:-1 group-title="付费频道",风云剧场
-http://60.24.56.47:4032/rtp/225.1.2.174:5002
+http://home.techua.cn:8000/rtp/225.1.2.174:5002
 #EXTINF:-1 group-title="付费频道",世界地理
-http://60.24.56.47:4032/rtp/225.1.2.171:5002
+http://home.techua.cn:8000/rtp/225.1.2.171:5002
 #EXTINF:-1 group-title="付费频道",兵器科技
-http://60.24.56.47:4032/rtp/225.1.2.166:5002
+http://home.techua.cn:8000/rtp/225.1.2.166:5002
 #EXTINF:-1 group-title="付费频道",央视文化精品
-http://60.24.56.47:4032/rtp/225.1.2.177:5002
+http://home.techua.cn:8000/rtp/225.1.2.177:5002
 #EXTINF:-1 group-title="付费频道",女性时尚
-http://60.24.56.47:4032/rtp/225.1.2.172:5002
+http://home.techua.cn:8000/rtp/225.1.2.172:5002
 #EXTINF:-1 group-title="付费频道",风云音乐
-http://60.24.56.47:4032/rtp/225.1.2.176:5002
+http://home.techua.cn:8000/rtp/225.1.2.176:5002
 #EXTINF:-1 group-title="付费频道",电视指南
-http://60.24.56.47:4032/rtp/225.1.2.167:5002
+http://home.techua.cn:8000/rtp/225.1.2.167:5002
 #EXTINF:-1 group-title="付费频道",央视台球
-http://60.24.56.47:4032/rtp/225.1.2.170:5002
+http://home.techua.cn:8000/rtp/225.1.2.170:5002
 #EXTINF:-1 group-title="付费频道",卫生健康
-http://60.24.56.47:4032/rtp/225.1.2.165:5002
+http://home.techua.cn:8000/rtp/225.1.2.165:5002
 #EXTINF:-1 group-title="付费频道",CHC家庭影院
-http://60.24.56.47:4032/rtp/225.1.1.213:5002
+http://home.techua.cn:8000/rtp/225.1.1.213:5002
 #EXTINF:-1 group-title="付费频道",CHC影迷电影
-http://60.24.56.47:4032/rtp/225.1.1.214:5002
+http://home.techua.cn:8000/rtp/225.1.1.214:5002
 #EXTINF:-1 group-title="付费频道",CHC动作电影
-http://60.24.56.47:4032/rtp/225.1.1.215:5002
+http://home.techua.cn:8000/rtp/225.1.1.215:5002
 #EXTINF:-1 group-title="付费频道",早期教育
-http://60.24.56.47:4032/rtp/225.1.2.207:5002
+http://home.techua.cn:8000/rtp/225.1.2.207:5002
 #EXTINF:-1 group-title="付费频道",动漫秀场
-http://60.24.56.47:4032/rtp/225.1.1.134:5002
+http://home.techua.cn:8000/rtp/225.1.1.134:5002
 #EXTINF:-1 group-title="付费频道",游戏风云
-http://60.24.56.47:4032/rtp/225.1.1.135:5002
+http://home.techua.cn:8000/rtp/225.1.1.135:5002
 #EXTINF:-1 group-title="付费频道",欢笑剧场
-http://60.24.56.47:4032/rtp/225.1.1.139:5002
+http://home.techua.cn:8000/rtp/225.1.1.139:5002
 #EXTINF:-1 group-title="付费频道",都市剧场
-http://60.24.56.47:4032/rtp/225.1.1.146:5002
+http://home.techua.cn:8000/rtp/225.1.1.146:5002
 #EXTINF:-1 group-title="付费频道",中华特产
-http://60.24.56.47:4032/rtp/225.1.2.248:5002
+http://home.techua.cn:8000/rtp/225.1.2.248:5002
 #EXTINF:-1 group-title="付费频道",生活时尚
-http://60.24.56.47:4032/rtp/225.1.1.143:5002
+http://home.techua.cn:8000/rtp/225.1.1.143:5002
 #EXTINF:-1 group-title="付费频道",乐游
-http://60.24.56.47:4032/rtp/225.1.1.145:5002
+http://home.techua.cn:8000/rtp/225.1.1.145:5002
 #EXTINF:-1 group-title="付费频道",金色学堂
-http://60.24.56.47:4032/rtp/225.1.1.236:5002
+http://home.techua.cn:8000/rtp/225.1.1.236:5002
 #EXTINF:-1 group-title="付费频道",法治天地
-http://60.24.56.47:4032/rtp/225.1.1.237:5002
+http://home.techua.cn:8000/rtp/225.1.1.237:5002
 #EXTINF:-1 group-title="付费频道",东方财经
-http://60.24.56.47:4032/rtp/225.1.1.247:5002
+http://home.techua.cn:8000/rtp/225.1.1.247:5002
 #EXTINF:-1 group-title="付费频道",梨园频道
-http://60.24.56.47:4032/rtp/225.1.2.104:5002
+http://home.techua.cn:8000/rtp/225.1.2.104:5002
 #EXTINF:-1 group-title="付费频道",文物宝库
-http://60.24.56.47:4032/rtp/225.1.2.105:5002
+http://home.techua.cn:8000/rtp/225.1.2.105:5002
 #EXTINF:-1 group-title="付费频道",武术世界
-http://60.24.56.47:4032/rtp/225.1.2.129:5002
+http://home.techua.cn:8000/rtp/225.1.2.129:5002
 #EXTINF:-1 group-title="付费频道",快乐垂钓
-http://60.24.56.47:4032/rtp/225.1.2.18:5002
+http://home.techua.cn:8000/rtp/225.1.2.18:5002
 #EXTINF:-1 group-title="付费频道",茶频道
-http://60.24.56.47:4032/rtp/225.1.2.19:5002
+http://home.techua.cn:8000/rtp/225.1.2.19:5002
 #EXTINF:-1 group-title="付费频道",四海钓鱼
-http://60.24.56.47:4032/rtp/225.1.2.117:5002
+http://home.techua.cn:8000/rtp/225.1.2.117:5002
 #EXTINF:-1 group-title="天津频道",天津卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.111:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.111:5002
 #EXTINF:-1 group-title="天津频道",天津新闻
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.130:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.130:5002
 #EXTINF:-1 group-title="天津频道",天津文艺
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.131:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.131:5002
 #EXTINF:-1 group-title="天津频道",天津影视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.149:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.149:5002
 #EXTINF:-1 group-title="天津频道",天津都市
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.128:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.128:5002
 #EXTINF:-1 group-title="天津频道",天津体育
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.122:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.122:5002
 #EXTINF:-1 group-title="天津频道",天津教育
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.129:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.129:5002
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.120:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.120:5002
 #EXTINF:-1 group-title="央视频道",CCTV2
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.133:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.133:5002
 #EXTINF:-1 group-title="央视频道",CCTV3
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.158:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.158:5002
 #EXTINF:-1 group-title="央视频道",CCTV4
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.150:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.150:5002
 #EXTINF:-1 group-title="央视频道",CCTV5
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.160:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.160:5002
 #EXTINF:-1 group-title="央视频道",CCTV5+
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.121:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.121:5002
 #EXTINF:-1 group-title="央视频道",CCTV6
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.195:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.195:5002
 #EXTINF:-1 group-title="央视频道",CCTV7
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.138:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.138:5002
 #EXTINF:-1 group-title="央视频道",CCTV8
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.196:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.196:5002
 #EXTINF:-1 group-title="央视频道",CCTV9
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.119:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.119:5002
 #EXTINF:-1 group-title="央视频道",CCTV10
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.140:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.140:5002
 #EXTINF:-1 group-title="央视频道",CCTV11
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.192:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.192:5002
 #EXTINF:-1 group-title="央视频道",CCTV12
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.142:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.142:5002
 #EXTINF:-1 group-title="央视频道",CCTV13
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.193:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.193:5002
 #EXTINF:-1 group-title="央视频道",CCTV14
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.144:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.144:5002
 #EXTINF:-1 group-title="央视频道",CCTV15
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.194:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.194:5002
 #EXTINF:-1 group-title="央视频道",CCTV16
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.237:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.237:5002
 #EXTINF:-1 group-title="央视频道",CCTV17
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.52:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.52:5002
 #EXTINF:-1 group-title="央视频道",CCTV4K
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.245:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.245:5002
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.116:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.116:5002
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.159:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.159:5002
 #EXTINF:-1 group-title="卫视频道",海南卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.82:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.82:5002
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.165:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.165:5002
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.112:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.112:5002
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.114:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.114:5002
 #EXTINF:-1 group-title="卫视频道",新疆卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.166:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.166:5002
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.147:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.147:5002
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.123:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.123:5002
 #EXTINF:-1 group-title="卫视频道",江西卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.29:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.29:5002
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.154:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.154:5002
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.127:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.127:5002
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.117:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.117:5002
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.26:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.26:5002
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.31:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.31:5002
 #EXTINF:-1 group-title="卫视频道",山东卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.148:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.148:5002
 #EXTINF:-1 group-title="卫视频道",北京卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.113:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.113:5002
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.235:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.235:5002
 #EXTINF:-1 group-title="卫视频道",河北卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.27:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.27:5002
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.167:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.167:5002
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.126:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.126:5002
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.61:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.61:5002
 #EXTINF:-1 group-title="卫视频道",青海卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.251:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.251:5002
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.168:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.168:5002
 #EXTINF:-1 group-title="卫视频道",兵团卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.169:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.169:5002
 #EXTINF:-1 group-title="卫视频道",重庆卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.155:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.155:5002
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.250:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.250:5002
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.28:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.28:5002
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.115:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.115:5002
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.182:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.182:5002
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.81:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.81:5002
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.41:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.41:5002
 #EXTINF:-1 group-title="卫视频道",山西卫视
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.50:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.50:5002
 #EXTINF:-1 group-title="卫视频道",金鹰卡通
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.236:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.236:5002
 #EXTINF:-1 group-title="卫视频道",金鹰纪实
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.124:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.124:5002
 #EXTINF:-1 group-title="卫视频道",北京纪实科教
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.30:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.30:5002
 #EXTINF:-1 group-title="付费频道",风云足球
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.168:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.168:5002
 #EXTINF:-1 group-title="付费频道",高尔夫网球
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.169:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.169:5002
 #EXTINF:-1 group-title="付费频道",第一剧场
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.175:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.175:5002
 #EXTINF:-1 group-title="付费频道",怀旧剧场
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.173:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.173:5002
 #EXTINF:-1 group-title="付费频道",风云剧场
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.174:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.174:5002
 #EXTINF:-1 group-title="付费频道",世界地理
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.171:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.171:5002
 #EXTINF:-1 group-title="付费频道",兵器科技
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.166:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.166:5002
 #EXTINF:-1 group-title="付费频道",央视文化精品
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.177:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.177:5002
 #EXTINF:-1 group-title="付费频道",女性时尚
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.172:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.172:5002
 #EXTINF:-1 group-title="付费频道",风云音乐
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.176:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.176:5002
 #EXTINF:-1 group-title="付费频道",电视指南
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.167:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.167:5002
 #EXTINF:-1 group-title="付费频道",央视台球
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.170:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.170:5002
 #EXTINF:-1 group-title="付费频道",卫生健康
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.165:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.165:5002
 #EXTINF:-1 group-title="付费频道",CHC家庭影院
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.213:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.213:5002
 #EXTINF:-1 group-title="付费频道",CHC影迷电影
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.214:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.214:5002
 #EXTINF:-1 group-title="付费频道",CHC动作电影
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.215:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.215:5002
 #EXTINF:-1 group-title="付费频道",早期教育
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.207:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.207:5002
 #EXTINF:-1 group-title="付费频道",动漫秀场
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.134:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.134:5002
 #EXTINF:-1 group-title="付费频道",游戏风云
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.135:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.135:5002
 #EXTINF:-1 group-title="付费频道",欢笑剧场
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.139:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.139:5002
 #EXTINF:-1 group-title="付费频道",都市剧场
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.146:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.146:5002
 #EXTINF:-1 group-title="付费频道",中华特产
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.248:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.248:5002
 #EXTINF:-1 group-title="付费频道",生活时尚
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.143:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.143:5002
 #EXTINF:-1 group-title="付费频道",乐游
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.145:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.145:5002
 #EXTINF:-1 group-title="付费频道",金色学堂
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.236:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.236:5002
 #EXTINF:-1 group-title="付费频道",法治天地
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.237:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.237:5002
 #EXTINF:-1 group-title="付费频道",东方财经
-http://music.home.hanxucloud.cn:4022/rtp/225.1.1.247:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.1.247:5002
 #EXTINF:-1 group-title="付费频道",梨园频道
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.104:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.104:5002
 #EXTINF:-1 group-title="付费频道",文物宝库
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.105:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.105:5002
 #EXTINF:-1 group-title="付费频道",武术世界
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.129:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.129:5002
 #EXTINF:-1 group-title="付费频道",快乐垂钓
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.18:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.18:5002
 #EXTINF:-1 group-title="付费频道",茶频道
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.19:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.19:5002
 #EXTINF:-1 group-title="付费频道",四海钓鱼
-http://music.home.hanxucloud.cn:4022/rtp/225.1.2.117:5002
-#EXTINF:-1 group-title="天津频道",天津卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.111:5002
-#EXTINF:-1 group-title="天津频道",天津新闻
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.130:5002
-#EXTINF:-1 group-title="天津频道",天津文艺
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.131:5002
-#EXTINF:-1 group-title="天津频道",天津影视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.149:5002
-#EXTINF:-1 group-title="天津频道",天津都市
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.128:5002
-#EXTINF:-1 group-title="天津频道",天津体育
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.122:5002
-#EXTINF:-1 group-title="天津频道",天津教育
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.129:5002
+http://mail.hanxucloud.cn:4022/rtp/225.1.2.117:5002
+#EXTINF:-1 group-title="北京联通",北京卫视
+http://114.243.101.217:8821/rtp/239.3.1.241:8000
+#EXTINF:-1 group-title="北京联通",北京文艺
+http://114.243.101.217:8821/rtp/239.3.1.242:8000
+#EXTINF:-1 group-title="北京联通",北京体育休闲
+http://114.243.101.217:8821/rtp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通",北京影视
+http://114.243.101.217:8821/rtp/239.3.1.158:8000
+#EXTINF:-1 group-title="北京联通",北京财经
+http://114.243.101.217:8821/rtp/239.3.1.116:8000
+#EXTINF:-1 group-title="北京联通",北京生活
+http://114.243.101.217:8821/rtp/239.3.1.117:8000
+#EXTINF:-1 group-title="北京联通",北京新闻
+http://114.243.101.217:8821/rtp/239.3.1.159:8000
+#EXTINF:-1 group-title="北京联通",北京国际
+http://114.243.101.217:8821/rtp/239.3.1.235:8000
+#EXTINF:-1 group-title="北京联通",快乐垂钓
+http://114.243.101.217:8821/rtp/239.3.1.164:8001
+#EXTINF:-1 group-title="北京联通",茶频道
+http://114.243.101.217:8821/rtp/239.3.1.165:8001
+#EXTINF:-1 group-title="北京联通",爱上4K
+http://114.243.101.217:8821/rtp/239.3.1.236:2000
+#EXTINF:-1 group-title="北京联通",4K超清
+http://114.243.101.217:8821/rtp/239.3.1.249:8001
+#EXTINF:-1 group-title="北京联通",淘剧场
+http://114.243.101.217:8821/rtp/239.3.1.95:8001
+#EXTINF:-1 group-title="北京联通",淘电影
+http://114.243.101.217:8821/rtp/239.3.1.250:8001
+#EXTINF:-1 group-title="北京联通",淘娱乐
+http://114.243.101.217:8821/rtp/239.3.1.100:8001
+#EXTINF:-1 group-title="北京联通",淘Baby
+http://114.243.101.217:8821/rtp/239.3.1.238:8001
+#EXTINF:-1 group-title="北京联通",萌宠TV
+http://114.243.101.217:8821/rtp/239.3.1.102:8001
+#EXTINF:-1 group-title="北京联通",IPTV收视指南
+http://114.243.101.217:8821/rtp/239.3.1.193:8012
+#EXTINF:-1 group-title="北京联通",IPTV热播剧场
+http://114.243.101.217:8821/rtp/239.3.1.194:9020
+#EXTINF:-1 group-title="北京联通",IPTV经典电影
+http://114.243.101.217:8821/rtp/239.3.1.195:9024
+#EXTINF:-1 group-title="北京联通",IPTV魅力时尚
+http://114.243.101.217:8821/rtp/239.3.1.196:9012
+#EXTINF:-1 group-title="北京联通",IPTV少儿动画
+http://114.243.101.217:8821/rtp/239.3.1.199:9000
+#EXTINF:-1 group-title="北京联通",城市剧场
+http://114.243.101.217:8821/rtp/239.3.1.67:4120
+#EXTINF:-1 group-title="北京联通",军旅剧场
+http://114.243.101.217:8821/rtp/239.3.1.68:4120
+#EXTINF:-1 group-title="北京联通",古装剧场
+http://114.243.101.217:8821/rtp/239.3.1.69:4120
+#EXTINF:-1 group-title="北京联通",音乐现场
+http://114.243.101.217:8821/rtp/239.3.1.70:4120
+#EXTINF:-1 group-title="北京联通",地理
+http://114.243.101.217:8821/rtp/239.3.1.71:4120
+#EXTINF:-1 group-title="北京联通",美妆
+http://114.243.101.217:8821/rtp/239.3.1.72:4120
+#EXTINF:-1 group-title="北京联通",美人
+http://114.243.101.217:8821/rtp/239.3.1.73:4120
+#EXTINF:-1 group-title="北京联通",精选
+http://114.243.101.217:8821/rtp/239.3.1.74:4120
+#EXTINF:-1 group-title="北京联通",解密
+http://114.243.101.217:8821/rtp/239.3.1.75:4120
+#EXTINF:-1 group-title="北京联通",军事
+http://114.243.101.217:8821/rtp/239.3.1.76:4120
+#EXTINF:-1 group-title="北京联通",国学
+http://114.243.101.217:8821/rtp/239.3.1.77:4120
+#EXTINF:-1 group-title="北京联通",戏曲
+http://114.243.101.217:8821/rtp/239.3.1.78:4120
+#EXTINF:-1 group-title="北京联通",早教
+http://114.243.101.217:8821/rtp/239.3.1.79:4120
+#EXTINF:-1 group-title="北京联通",动画
+http://114.243.101.217:8821/rtp/239.3.1.80:4120
+#EXTINF:-1 group-title="北京联通",好学生
+http://114.243.101.217:8821/rtp/239.3.1.81:4120
+#EXTINF:-1 group-title="北京联通",鉴赏
+http://114.243.101.217:8821/rtp/239.3.1.82:4120
+#EXTINF:-1 group-title="北京联通",墨宝
+http://114.243.101.217:8821/rtp/239.3.1.83:4120
+#EXTINF:-1 group-title="北京联通",光影
+http://114.243.101.217:8821/rtp/239.3.1.84:4120
+#EXTINF:-1 group-title="北京联通",四大名著剧场
+http://114.243.101.217:8821/rtp/239.3.1.85:4120
+#EXTINF:-1 group-title="北京联通",爱生活
+http://114.243.101.217:8821/rtp/239.3.1.86:4120
+#EXTINF:-1 group-title="北京联通",武术
+http://114.243.101.217:8821/rtp/239.3.1.87:4120
+#EXTINF:-1 group-title="北京联通",古早影院
+http://114.243.101.217:8821/rtp/239.3.1.88:4120
+#EXTINF:-1 group-title="北京联通",足球
+http://114.243.101.217:8821/rtp/239.3.1.89:4120
+#EXTINF:-1 group-title="北京联通",武侠剧场
+http://114.243.101.217:8821/rtp/239.3.1.90:4120
+#EXTINF:-1 group-title="北京联通",喜剧影院
+http://114.243.101.217:8821/rtp/239.3.1.91:4120
+#EXTINF:-1 group-title="北京联通",动作影院
+http://114.243.101.217:8821/rtp/239.3.1.92:4120
+#EXTINF:-1 group-title="北京联通",家庭影院
+http://114.243.101.217:8821/rtp/239.3.1.93:4120
+#EXTINF:-1 group-title="北京联通",星影
+http://114.243.101.217:8821/rtp/239.3.1.94:4120
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.120:5002
+http://114.243.101.217:8821/rtp/239.3.1.129:8008
 #EXTINF:-1 group-title="央视频道",CCTV2
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.133:5002
+http://114.243.101.217:8821/rtp/239.3.1.60:8084
 #EXTINF:-1 group-title="央视频道",CCTV3
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.158:5002
+http://114.243.101.217:8821/rtp/239.3.1.172:8001
 #EXTINF:-1 group-title="央视频道",CCTV4
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.150:5002
+http://114.243.101.217:8821/rtp/239.3.1.105:8092
+#EXTINF:-1 group-title="央视频道",CCTV4欧洲
+http://114.243.101.217:8821/rtp/239.3.1.213:4220
+#EXTINF:-1 group-title="央视频道",CCTV4美洲
+http://114.243.101.217:8821/rtp/239.3.1.214:4220
 #EXTINF:-1 group-title="央视频道",CCTV5
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.160:5002
+http://114.243.101.217:8821/rtp/239.3.1.173:8001
 #EXTINF:-1 group-title="央视频道",CCTV5+
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.121:5002
+http://114.243.101.217:8821/rtp/239.3.1.130:8004
 #EXTINF:-1 group-title="央视频道",CCTV6
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.195:5002
+http://114.243.101.217:8821/rtp/239.3.1.174:8001
 #EXTINF:-1 group-title="央视频道",CCTV7
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.138:5002
+http://114.243.101.217:8821/rtp/239.3.1.61:8104
 #EXTINF:-1 group-title="央视频道",CCTV8
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.196:5002
+http://114.243.101.217:8821/rtp/239.3.1.175:8001
 #EXTINF:-1 group-title="央视频道",CCTV9
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.119:5002
+http://114.243.101.217:8821/rtp/239.3.1.62:8112
 #EXTINF:-1 group-title="央视频道",CCTV10
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.140:5002
+http://114.243.101.217:8821/rtp/239.3.1.63:8116
 #EXTINF:-1 group-title="央视频道",CCTV11
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.192:5002
+http://114.243.101.217:8821/rtp/239.3.1.152:8120
 #EXTINF:-1 group-title="央视频道",CCTV12
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.142:5002
+http://114.243.101.217:8821/rtp/239.3.1.64:8124
 #EXTINF:-1 group-title="央视频道",CCTV13
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.193:5002
+http://114.243.101.217:8821/rtp/239.3.1.124:8128
 #EXTINF:-1 group-title="央视频道",CCTV14
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.144:5002
+http://114.243.101.217:8821/rtp/239.3.1.65:8132
 #EXTINF:-1 group-title="央视频道",CCTV15
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.194:5002
+http://114.243.101.217:8821/rtp/239.3.1.153:8136
 #EXTINF:-1 group-title="央视频道",CCTV16
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.237:5002
+http://114.243.101.217:8821/rtp/239.3.1.184:8001
 #EXTINF:-1 group-title="央视频道",CCTV17
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.52:5002
+http://114.243.101.217:8821/rtp/239.3.1.151:8144
 #EXTINF:-1 group-title="央视频道",CCTV4K
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.245:5002
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.116:5002
-#EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.159:5002
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.82:5002
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.165:5002
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.112:5002
+http://114.243.101.217:8821/rtp/239.3.1.245:2000
+#EXTINF:-1 group-title="央视频道",CETV1
+http://114.243.101.217:8821/rtp/239.3.1.57:8152
+#EXTINF:-1 group-title="央视频道",CETV2
+http://114.243.101.217:8821/rtp/239.3.1.54:4120
+#EXTINF:-1 group-title="央视频道",CETV4
+http://114.243.101.217:8821/rtp/239.3.1.56:4120
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.114:5002
-#EXTINF:-1 group-title="卫视频道",新疆卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.166:5002
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.147:5002
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.123:5002
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.29:5002
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.154:5002
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.127:5002
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.117:5002
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.26:5002
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.31:5002
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.148:5002
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.113:5002
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.235:5002
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.27:5002
-#EXTINF:-1 group-title="卫视频道",西藏卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.167:5002
+http://114.243.101.217:8821/rtp/239.3.1.132:8012
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.126:5002
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.61:5002
-#EXTINF:-1 group-title="卫视频道",青海卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.251:5002
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.168:5002
-#EXTINF:-1 group-title="卫视频道",兵团卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.169:5002
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.155:5002
-#EXTINF:-1 group-title="卫视频道",云南卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.250:5002
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.28:5002
+http://114.243.101.217:8821/rtp/239.3.1.135:8028
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://114.243.101.217:8821/rtp/239.3.1.137:8036
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://114.243.101.217:8821/rtp/239.3.1.136:8032
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://114.243.101.217:8821/rtp/239.3.1.211:8064
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://114.243.101.217:8821/rtp/239.3.1.210:8056
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.115:5002
-#EXTINF:-1 group-title="卫视频道",三沙卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.182:5002
-#EXTINF:-1 group-title="卫视频道",广西卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.81:5002
+http://114.243.101.217:8821/rtp/239.3.1.133:8016
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://114.243.101.217:8821/rtp/239.3.1.240:8172
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://114.243.101.217:8821/rtp/239.3.1.141:1234
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://114.243.101.217:8821/rtp/239.3.1.142:8048
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://114.243.101.217:8821/rtp/239.3.1.134:8020
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://114.243.101.217:8821/rtp/239.3.1.138:8044
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://114.243.101.217:8821/rtp/239.3.1.209:8052
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://114.243.101.217:8821/rtp/239.3.1.148:8072
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://114.243.101.217:8821/rtp/239.3.1.50:8184
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://114.243.101.217:8821/rtp/239.3.1.149:8076
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://114.243.101.217:8821/rtp/239.3.1.156:8148
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://114.243.101.217:8821/rtp/239.3.1.122:8160
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://114.243.101.217:8821/rtp/239.3.1.123:8164
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://114.243.101.217:8821/rtp/239.3.1.201:8180
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://114.243.101.217:8821/rtp/239.3.1.169:8212
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://114.243.101.217:8821/rtp/239.3.1.166:8188
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+http://114.243.101.217:8821/rtp/239.3.1.167:8192
+#EXTINF:-1 group-title="卫视频道",兵团卫视
+http://114.243.101.217:8821/rtp/239.3.1.168:8196
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://114.243.101.217:8821/rtp/239.3.1.29:8288
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://114.243.101.217:8821/rtp/239.3.1.45:8304
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+http://114.243.101.217:8821/rtp/239.3.1.43:8176
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.41:5002
+http://114.243.101.217:8821/rtp/239.3.1.41:8140
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://114.243.101.217:8821/rtp/239.3.1.39:8300
 #EXTINF:-1 group-title="卫视频道",山西卫视
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.50:5002
-#EXTINF:-1 group-title="卫视频道",金鹰卡通
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.236:5002
+http://114.243.101.217:8821/rtp/239.3.1.42:8172
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://114.243.101.217:8821/rtp/239.3.1.44:8184
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://114.243.101.217:8821/rtp/239.3.1.26:8108
+#EXTINF:-1 group-title="卫视频道",厦门卫视
+http://114.243.101.217:8821/rtp/239.3.1.143:4120
+#EXTINF:-1 group-title="卫视频道",三沙卫视
+http://114.243.101.217:8821/rtp/239.3.1.155:4120
 #EXTINF:-1 group-title="卫视频道",金鹰纪实
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.124:5002
+http://114.243.101.217:8821/rtp/239.3.1.58:8156
+#EXTINF:-1 group-title="卫视频道",卡酷少儿
+http://114.243.101.217:8821/rtp/239.3.1.189:8000
 #EXTINF:-1 group-title="卫视频道",北京纪实科教
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.30:5002
-#EXTINF:-1 group-title="付费频道",风云足球
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.168:5002
-#EXTINF:-1 group-title="付费频道",高尔夫网球
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.169:5002
-#EXTINF:-1 group-title="付费频道",第一剧场
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.175:5002
-#EXTINF:-1 group-title="付费频道",怀旧剧场
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.173:5002
-#EXTINF:-1 group-title="付费频道",风云剧场
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.174:5002
-#EXTINF:-1 group-title="付费频道",世界地理
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.171:5002
-#EXTINF:-1 group-title="付费频道",兵器科技
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.166:5002
-#EXTINF:-1 group-title="付费频道",央视文化精品
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.177:5002
-#EXTINF:-1 group-title="付费频道",女性时尚
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.172:5002
-#EXTINF:-1 group-title="付费频道",风云音乐
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.176:5002
-#EXTINF:-1 group-title="付费频道",电视指南
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.167:5002
-#EXTINF:-1 group-title="付费频道",央视台球
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.170:5002
-#EXTINF:-1 group-title="付费频道",卫生健康
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.165:5002
-#EXTINF:-1 group-title="付费频道",CHC家庭影院
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.213:5002
-#EXTINF:-1 group-title="付费频道",CHC影迷电影
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.214:5002
-#EXTINF:-1 group-title="付费频道",CHC动作电影
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.215:5002
-#EXTINF:-1 group-title="付费频道",早期教育
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.207:5002
-#EXTINF:-1 group-title="付费频道",动漫秀场
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.134:5002
-#EXTINF:-1 group-title="付费频道",游戏风云
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.135:5002
-#EXTINF:-1 group-title="付费频道",欢笑剧场
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.139:5002
-#EXTINF:-1 group-title="付费频道",都市剧场
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.146:5002
-#EXTINF:-1 group-title="付费频道",中华特产
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.248:5002
-#EXTINF:-1 group-title="付费频道",生活时尚
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.143:5002
-#EXTINF:-1 group-title="付费频道",乐游
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.145:5002
-#EXTINF:-1 group-title="付费频道",金色学堂
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.236:5002
-#EXTINF:-1 group-title="付费频道",法治天地
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.237:5002
-#EXTINF:-1 group-title="付费频道",东方财经
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.247:5002
-#EXTINF:-1 group-title="付费频道",梨园频道
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.104:5002
-#EXTINF:-1 group-title="付费频道",文物宝库
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.105:5002
-#EXTINF:-1 group-title="付费频道",武术世界
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.129:5002
-#EXTINF:-1 group-title="付费频道",快乐垂钓
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.18:5002
-#EXTINF:-1 group-title="付费频道",茶频道
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.19:5002
-#EXTINF:-1 group-title="付费频道",四海钓鱼
-http://upload.home.hanxucloud.cn:4022/rtp/225.1.2.117:5002
+http://114.243.101.217:8821/rtp/239.3.1.115:8000
 #EXTINF:-1 group-title="北京联通",北京卫视
 http://www.ikuai.me:4022/rtp/239.3.1.241:8000
 #EXTINF:-1 group-title="北京联通",北京文艺
@@ -792,228 +824,6 @@ http://www.ikuai.me:4022/rtp/239.3.1.189:8000
 #EXTINF:-1 group-title="卫视频道",北京纪实科教
 http://www.ikuai.me:4022/rtp/239.3.1.115:8000
 #EXTINF:-1 group-title="北京联通",北京卫视
-http://www.ljun.cc:4022/rtp/239.3.1.241:8000
-#EXTINF:-1 group-title="北京联通",北京文艺
-http://www.ljun.cc:4022/rtp/239.3.1.242:8000
-#EXTINF:-1 group-title="北京联通",北京体育休闲
-http://www.ljun.cc:4022/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="北京联通",北京影视
-http://www.ljun.cc:4022/rtp/239.3.1.158:8000
-#EXTINF:-1 group-title="北京联通",北京财经
-http://www.ljun.cc:4022/rtp/239.3.1.116:8000
-#EXTINF:-1 group-title="北京联通",北京生活
-http://www.ljun.cc:4022/rtp/239.3.1.117:8000
-#EXTINF:-1 group-title="北京联通",北京新闻
-http://www.ljun.cc:4022/rtp/239.3.1.159:8000
-#EXTINF:-1 group-title="北京联通",北京国际
-http://www.ljun.cc:4022/rtp/239.3.1.235:8000
-#EXTINF:-1 group-title="北京联通",快乐垂钓
-http://www.ljun.cc:4022/rtp/239.3.1.164:8001
-#EXTINF:-1 group-title="北京联通",茶频道
-http://www.ljun.cc:4022/rtp/239.3.1.165:8001
-#EXTINF:-1 group-title="北京联通",爱上4K
-http://www.ljun.cc:4022/rtp/239.3.1.236:2000
-#EXTINF:-1 group-title="北京联通",4K超清
-http://www.ljun.cc:4022/rtp/239.3.1.249:8001
-#EXTINF:-1 group-title="北京联通",淘剧场
-http://www.ljun.cc:4022/rtp/239.3.1.95:8001
-#EXTINF:-1 group-title="北京联通",淘电影
-http://www.ljun.cc:4022/rtp/239.3.1.250:8001
-#EXTINF:-1 group-title="北京联通",淘娱乐
-http://www.ljun.cc:4022/rtp/239.3.1.100:8001
-#EXTINF:-1 group-title="北京联通",淘Baby
-http://www.ljun.cc:4022/rtp/239.3.1.238:8001
-#EXTINF:-1 group-title="北京联通",萌宠TV
-http://www.ljun.cc:4022/rtp/239.3.1.102:8001
-#EXTINF:-1 group-title="北京联通",IPTV收视指南
-http://www.ljun.cc:4022/rtp/239.3.1.193:8012
-#EXTINF:-1 group-title="北京联通",IPTV热播剧场
-http://www.ljun.cc:4022/rtp/239.3.1.194:9020
-#EXTINF:-1 group-title="北京联通",IPTV经典电影
-http://www.ljun.cc:4022/rtp/239.3.1.195:9024
-#EXTINF:-1 group-title="北京联通",IPTV魅力时尚
-http://www.ljun.cc:4022/rtp/239.3.1.196:9012
-#EXTINF:-1 group-title="北京联通",IPTV少儿动画
-http://www.ljun.cc:4022/rtp/239.3.1.199:9000
-#EXTINF:-1 group-title="北京联通",城市剧场
-http://www.ljun.cc:4022/rtp/239.3.1.67:4120
-#EXTINF:-1 group-title="北京联通",军旅剧场
-http://www.ljun.cc:4022/rtp/239.3.1.68:4120
-#EXTINF:-1 group-title="北京联通",古装剧场
-http://www.ljun.cc:4022/rtp/239.3.1.69:4120
-#EXTINF:-1 group-title="北京联通",音乐现场
-http://www.ljun.cc:4022/rtp/239.3.1.70:4120
-#EXTINF:-1 group-title="北京联通",地理
-http://www.ljun.cc:4022/rtp/239.3.1.71:4120
-#EXTINF:-1 group-title="北京联通",美妆
-http://www.ljun.cc:4022/rtp/239.3.1.72:4120
-#EXTINF:-1 group-title="北京联通",美人
-http://www.ljun.cc:4022/rtp/239.3.1.73:4120
-#EXTINF:-1 group-title="北京联通",精选
-http://www.ljun.cc:4022/rtp/239.3.1.74:4120
-#EXTINF:-1 group-title="北京联通",解密
-http://www.ljun.cc:4022/rtp/239.3.1.75:4120
-#EXTINF:-1 group-title="北京联通",军事
-http://www.ljun.cc:4022/rtp/239.3.1.76:4120
-#EXTINF:-1 group-title="北京联通",国学
-http://www.ljun.cc:4022/rtp/239.3.1.77:4120
-#EXTINF:-1 group-title="北京联通",戏曲
-http://www.ljun.cc:4022/rtp/239.3.1.78:4120
-#EXTINF:-1 group-title="北京联通",早教
-http://www.ljun.cc:4022/rtp/239.3.1.79:4120
-#EXTINF:-1 group-title="北京联通",动画
-http://www.ljun.cc:4022/rtp/239.3.1.80:4120
-#EXTINF:-1 group-title="北京联通",好学生
-http://www.ljun.cc:4022/rtp/239.3.1.81:4120
-#EXTINF:-1 group-title="北京联通",鉴赏
-http://www.ljun.cc:4022/rtp/239.3.1.82:4120
-#EXTINF:-1 group-title="北京联通",墨宝
-http://www.ljun.cc:4022/rtp/239.3.1.83:4120
-#EXTINF:-1 group-title="北京联通",光影
-http://www.ljun.cc:4022/rtp/239.3.1.84:4120
-#EXTINF:-1 group-title="北京联通",四大名著剧场
-http://www.ljun.cc:4022/rtp/239.3.1.85:4120
-#EXTINF:-1 group-title="北京联通",爱生活
-http://www.ljun.cc:4022/rtp/239.3.1.86:4120
-#EXTINF:-1 group-title="北京联通",武术
-http://www.ljun.cc:4022/rtp/239.3.1.87:4120
-#EXTINF:-1 group-title="北京联通",古早影院
-http://www.ljun.cc:4022/rtp/239.3.1.88:4120
-#EXTINF:-1 group-title="北京联通",足球
-http://www.ljun.cc:4022/rtp/239.3.1.89:4120
-#EXTINF:-1 group-title="北京联通",武侠剧场
-http://www.ljun.cc:4022/rtp/239.3.1.90:4120
-#EXTINF:-1 group-title="北京联通",喜剧影院
-http://www.ljun.cc:4022/rtp/239.3.1.91:4120
-#EXTINF:-1 group-title="北京联通",动作影院
-http://www.ljun.cc:4022/rtp/239.3.1.92:4120
-#EXTINF:-1 group-title="北京联通",家庭影院
-http://www.ljun.cc:4022/rtp/239.3.1.93:4120
-#EXTINF:-1 group-title="北京联通",星影
-http://www.ljun.cc:4022/rtp/239.3.1.94:4120
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://www.ljun.cc:4022/rtp/239.3.1.129:8008
-#EXTINF:-1 group-title="央视频道",CCTV2
-http://www.ljun.cc:4022/rtp/239.3.1.60:8084
-#EXTINF:-1 group-title="央视频道",CCTV3
-http://www.ljun.cc:4022/rtp/239.3.1.172:8001
-#EXTINF:-1 group-title="央视频道",CCTV4
-http://www.ljun.cc:4022/rtp/239.3.1.105:8092
-#EXTINF:-1 group-title="央视频道",CCTV4欧洲
-http://www.ljun.cc:4022/rtp/239.3.1.213:4220
-#EXTINF:-1 group-title="央视频道",CCTV4美洲
-http://www.ljun.cc:4022/rtp/239.3.1.214:4220
-#EXTINF:-1 group-title="央视频道",CCTV5
-http://www.ljun.cc:4022/rtp/239.3.1.173:8001
-#EXTINF:-1 group-title="央视频道",CCTV5+
-http://www.ljun.cc:4022/rtp/239.3.1.130:8004
-#EXTINF:-1 group-title="央视频道",CCTV6
-http://www.ljun.cc:4022/rtp/239.3.1.174:8001
-#EXTINF:-1 group-title="央视频道",CCTV7
-http://www.ljun.cc:4022/rtp/239.3.1.61:8104
-#EXTINF:-1 group-title="央视频道",CCTV8
-http://www.ljun.cc:4022/rtp/239.3.1.175:8001
-#EXTINF:-1 group-title="央视频道",CCTV9
-http://www.ljun.cc:4022/rtp/239.3.1.62:8112
-#EXTINF:-1 group-title="央视频道",CCTV10
-http://www.ljun.cc:4022/rtp/239.3.1.63:8116
-#EXTINF:-1 group-title="央视频道",CCTV11
-http://www.ljun.cc:4022/rtp/239.3.1.152:8120
-#EXTINF:-1 group-title="央视频道",CCTV12
-http://www.ljun.cc:4022/rtp/239.3.1.64:8124
-#EXTINF:-1 group-title="央视频道",CCTV13
-http://www.ljun.cc:4022/rtp/239.3.1.124:8128
-#EXTINF:-1 group-title="央视频道",CCTV14
-http://www.ljun.cc:4022/rtp/239.3.1.65:8132
-#EXTINF:-1 group-title="央视频道",CCTV15
-http://www.ljun.cc:4022/rtp/239.3.1.153:8136
-#EXTINF:-1 group-title="央视频道",CCTV16
-http://www.ljun.cc:4022/rtp/239.3.1.184:8001
-#EXTINF:-1 group-title="央视频道",CCTV17
-http://www.ljun.cc:4022/rtp/239.3.1.151:8144
-#EXTINF:-1 group-title="央视频道",CCTV4K
-http://www.ljun.cc:4022/rtp/239.3.1.245:2000
-#EXTINF:-1 group-title="央视频道",CETV1
-http://www.ljun.cc:4022/rtp/239.3.1.57:8152
-#EXTINF:-1 group-title="央视频道",CETV2
-http://www.ljun.cc:4022/rtp/239.3.1.54:4120
-#EXTINF:-1 group-title="央视频道",CETV4
-http://www.ljun.cc:4022/rtp/239.3.1.56:4120
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://www.ljun.cc:4022/rtp/239.3.1.132:8012
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://www.ljun.cc:4022/rtp/239.3.1.135:8028
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://www.ljun.cc:4022/rtp/239.3.1.137:8036
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://www.ljun.cc:4022/rtp/239.3.1.136:8032
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://www.ljun.cc:4022/rtp/239.3.1.211:8064
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://www.ljun.cc:4022/rtp/239.3.1.210:8056
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://www.ljun.cc:4022/rtp/239.3.1.133:8016
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://www.ljun.cc:4022/rtp/239.3.1.240:8172
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://www.ljun.cc:4022/rtp/239.3.1.141:1234
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://www.ljun.cc:4022/rtp/239.3.1.142:8048
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://www.ljun.cc:4022/rtp/239.3.1.134:8020
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-http://www.ljun.cc:4022/rtp/239.3.1.138:8044
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://www.ljun.cc:4022/rtp/239.3.1.209:8052
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://www.ljun.cc:4022/rtp/239.3.1.148:8072
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://www.ljun.cc:4022/rtp/239.3.1.50:8184
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://www.ljun.cc:4022/rtp/239.3.1.149:8076
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://www.ljun.cc:4022/rtp/239.3.1.156:8148
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://www.ljun.cc:4022/rtp/239.3.1.122:8160
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://www.ljun.cc:4022/rtp/239.3.1.123:8164
-#EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://www.ljun.cc:4022/rtp/239.3.1.201:8180
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://www.ljun.cc:4022/rtp/239.3.1.169:8212
-#EXTINF:-1 group-title="卫视频道",西藏卫视
-http://www.ljun.cc:4022/rtp/239.3.1.166:8188
-#EXTINF:-1 group-title="卫视频道",新疆卫视
-http://www.ljun.cc:4022/rtp/239.3.1.167:8192
-#EXTINF:-1 group-title="卫视频道",兵团卫视
-http://www.ljun.cc:4022/rtp/239.3.1.168:8196
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://www.ljun.cc:4022/rtp/239.3.1.29:8288
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://www.ljun.cc:4022/rtp/239.3.1.45:8304
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://www.ljun.cc:4022/rtp/239.3.1.43:8176
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://www.ljun.cc:4022/rtp/239.3.1.41:8140
-#EXTINF:-1 group-title="卫视频道",广西卫视
-http://www.ljun.cc:4022/rtp/239.3.1.39:8300
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://www.ljun.cc:4022/rtp/239.3.1.42:8172
-#EXTINF:-1 group-title="卫视频道",青海卫视
-http://www.ljun.cc:4022/rtp/239.3.1.44:8184
-#EXTINF:-1 group-title="卫视频道",云南卫视
-http://www.ljun.cc:4022/rtp/239.3.1.26:8108
-#EXTINF:-1 group-title="卫视频道",厦门卫视
-http://www.ljun.cc:4022/rtp/239.3.1.143:4120
-#EXTINF:-1 group-title="卫视频道",三沙卫视
-http://www.ljun.cc:4022/rtp/239.3.1.155:4120
-#EXTINF:-1 group-title="卫视频道",金鹰纪实
-http://www.ljun.cc:4022/rtp/239.3.1.58:8156
-#EXTINF:-1 group-title="卫视频道",卡酷少儿
-http://www.ljun.cc:4022/rtp/239.3.1.189:8000
-#EXTINF:-1 group-title="卫视频道",北京纪实科教
-http://www.ljun.cc:4022/rtp/239.3.1.115:8000
-#EXTINF:-1 group-title="北京联通",北京卫视
 http://zb.hexuntong.net:8188/rtp/239.3.1.241:8000
 #EXTINF:-1 group-title="北京联通",北京文艺
 http://zb.hexuntong.net:8188/rtp/239.3.1.242:8000
@@ -1236,82 +1046,82 @@ http://zb.hexuntong.net:8188/rtp/239.3.1.189:8000
 #EXTINF:-1 group-title="卫视频道",北京纪实科教
 http://zb.hexuntong.net:8188/rtp/239.3.1.115:8000
 #EXTINF:-1 group-title="山东电信",求索纪录
-http://113.120.108.132:4000/udp/239.21.2.159:5002
+http://144.0.67.2:65235/udp/239.21.2.159:5002
 #EXTINF:-1 group-title="山东电信",凤凰中文
-http://113.120.108.132:4000/udp/239.21.2.153:5002
+http://144.0.67.2:65235/udp/239.21.2.153:5002
 #EXTINF:-1 group-title="山东电信",凤凰资讯
-http://113.120.108.132:4000/udp/239.21.2.163:5002
+http://144.0.67.2:65235/udp/239.21.2.163:5002
 #EXTINF:-1 group-title="山东电信",凤凰香港
-http://113.120.108.132:4000/udp/239.21.2.164:5002
+http://144.0.67.2:65235/udp/239.21.2.164:5002
 #EXTINF:-1 group-title="山东电信",山东卫视
-http://113.120.108.132:4000/udp/239.21.1.87:5002
+http://144.0.67.2:65235/udp/239.21.1.87:5002
 #EXTINF:-1 group-title="山东电信",山东齐鲁
-http://113.120.108.132:4000/udp/239.21.1.134:5002
+http://144.0.67.2:65235/udp/239.21.1.134:5002
 #EXTINF:-1 group-title="山东电信",山东体育休闲
-http://113.120.108.132:4000/udp/239.21.1.141:5002
+http://144.0.67.2:65235/udp/239.21.1.141:5002
 #EXTINF:-1 group-title="山东电信",山东生活
-http://113.120.108.132:4000/udp/239.21.1.175:5002
+http://144.0.67.2:65235/udp/239.21.1.175:5002
 #EXTINF:-1 group-title="山东电信",山东综艺
-http://113.120.108.132:4000/udp/239.21.1.177:5002
+http://144.0.67.2:65235/udp/239.21.1.177:5002
 #EXTINF:-1 group-title="山东电信",山东新闻
-http://113.120.108.132:4000/udp/239.21.1.140:5002
+http://144.0.67.2:65235/udp/239.21.1.140:5002
 #EXTINF:-1 group-title="山东电信",山东农科
-http://113.120.108.132:4000/udp/239.21.1.183:5002
+http://144.0.67.2:65235/udp/239.21.1.183:5002
 #EXTINF:-1 group-title="山东电信",山东文旅
-http://113.120.108.132:4000/udp/239.21.1.176:5002
+http://144.0.67.2:65235/udp/239.21.1.176:5002
 #EXTINF:-1 group-title="山东电信",山东少儿
-http://113.120.108.132:4000/udp/239.21.1.208:5002
+http://144.0.67.2:65235/udp/239.21.1.208:5002
 #EXTINF:-1 group-title="山东电信",求索纪录
-http://123.168.210.194:6777/udp/239.21.2.159:5002
+http://182.34.182.235:17678/udp/239.21.2.159:5002
 #EXTINF:-1 group-title="山东电信",凤凰中文
-http://123.168.210.194:6777/udp/239.21.2.153:5002
+http://182.34.182.235:17678/udp/239.21.2.153:5002
 #EXTINF:-1 group-title="山东电信",凤凰资讯
-http://123.168.210.194:6777/udp/239.21.2.163:5002
+http://182.34.182.235:17678/udp/239.21.2.163:5002
 #EXTINF:-1 group-title="山东电信",凤凰香港
-http://123.168.210.194:6777/udp/239.21.2.164:5002
+http://182.34.182.235:17678/udp/239.21.2.164:5002
 #EXTINF:-1 group-title="山东电信",山东卫视
-http://123.168.210.194:6777/udp/239.21.1.87:5002
+http://182.34.182.235:17678/udp/239.21.1.87:5002
 #EXTINF:-1 group-title="山东电信",山东齐鲁
-http://123.168.210.194:6777/udp/239.21.1.134:5002
+http://182.34.182.235:17678/udp/239.21.1.134:5002
 #EXTINF:-1 group-title="山东电信",山东体育休闲
-http://123.168.210.194:6777/udp/239.21.1.141:5002
+http://182.34.182.235:17678/udp/239.21.1.141:5002
 #EXTINF:-1 group-title="山东电信",山东生活
-http://123.168.210.194:6777/udp/239.21.1.175:5002
+http://182.34.182.235:17678/udp/239.21.1.175:5002
 #EXTINF:-1 group-title="山东电信",山东综艺
-http://123.168.210.194:6777/udp/239.21.1.177:5002
+http://182.34.182.235:17678/udp/239.21.1.177:5002
 #EXTINF:-1 group-title="山东电信",山东新闻
-http://123.168.210.194:6777/udp/239.21.1.140:5002
+http://182.34.182.235:17678/udp/239.21.1.140:5002
 #EXTINF:-1 group-title="山东电信",山东农科
-http://123.168.210.194:6777/udp/239.21.1.183:5002
+http://182.34.182.235:17678/udp/239.21.1.183:5002
 #EXTINF:-1 group-title="山东电信",山东文旅
-http://123.168.210.194:6777/udp/239.21.1.176:5002
+http://182.34.182.235:17678/udp/239.21.1.176:5002
 #EXTINF:-1 group-title="山东电信",山东少儿
-http://123.168.210.194:6777/udp/239.21.1.208:5002
+http://182.34.182.235:17678/udp/239.21.1.208:5002
 #EXTINF:-1 group-title="山东电信",求索纪录
-http://www.niuin.com:4022/udp/239.21.2.159:5002
+http://aik.ddnsfile.top:65235/udp/239.21.2.159:5002
 #EXTINF:-1 group-title="山东电信",凤凰中文
-http://www.niuin.com:4022/udp/239.21.2.153:5002
+http://aik.ddnsfile.top:65235/udp/239.21.2.153:5002
 #EXTINF:-1 group-title="山东电信",凤凰资讯
-http://www.niuin.com:4022/udp/239.21.2.163:5002
+http://aik.ddnsfile.top:65235/udp/239.21.2.163:5002
 #EXTINF:-1 group-title="山东电信",凤凰香港
-http://www.niuin.com:4022/udp/239.21.2.164:5002
+http://aik.ddnsfile.top:65235/udp/239.21.2.164:5002
 #EXTINF:-1 group-title="山东电信",山东卫视
-http://www.niuin.com:4022/udp/239.21.1.87:5002
+http://aik.ddnsfile.top:65235/udp/239.21.1.87:5002
 #EXTINF:-1 group-title="山东电信",山东齐鲁
-http://www.niuin.com:4022/udp/239.21.1.134:5002
+http://aik.ddnsfile.top:65235/udp/239.21.1.134:5002
 #EXTINF:-1 group-title="山东电信",山东体育休闲
-http://www.niuin.com:4022/udp/239.21.1.141:5002
+http://aik.ddnsfile.top:65235/udp/239.21.1.141:5002
 #EXTINF:-1 group-title="山东电信",山东生活
-http://www.niuin.com:4022/udp/239.21.1.175:5002
+http://aik.ddnsfile.top:65235/udp/239.21.1.175:5002
 #EXTINF:-1 group-title="山东电信",山东综艺
-http://www.niuin.com:4022/udp/239.21.1.177:5002
+http://aik.ddnsfile.top:65235/udp/239.21.1.177:5002
 #EXTINF:-1 group-title="山东电信",山东新闻
-http://www.niuin.com:4022/udp/239.21.1.140:5002
+http://aik.ddnsfile.top:65235/udp/239.21.1.140:5002
 #EXTINF:-1 group-title="山东电信",山东农科
-http://www.niuin.com:4022/udp/239.21.1.183:5002
+http://aik.ddnsfile.top:65235/udp/239.21.1.183:5002
 #EXTINF:-1 group-title="山东电信",山东文旅
-http://www.niuin.com:4022/udp/239.21.1.176:5002
+http://aik.ddnsfile.top:65235/udp/239.21.1.176:5002
 #EXTINF:-1 group-title="山东电信",山东少儿
-http://www.niuin.com:4022/udp/239.21.1.208:5002
-#EXTINF:-1 group-title="更新时间",2026/02/15 09:17
+http://aik.ddnsfile.top:65235/udp/239.21.1.208:5002
+#EXTINF:-1 group-title="更新时间",2026/02/16 09:14
 http://play.jinnantv.top/live/JNTV1.m3u8

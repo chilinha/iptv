@@ -1,3 +1,2 @@
-60.24.56.47:4032
-music.home.hanxucloud.cn:4022
-upload.home.hanxucloud.cn:4022
+home.techua.cn:8000
+mail.hanxucloud.cn:4022
