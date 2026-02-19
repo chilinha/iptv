@@ -1,3 +1,3 @@
-mail.hanxucloud.cn:4022
-music.home.hanxucloud.cn:4022
+117.8.142.176:8834
+home.techua.cn:8000
 web.hanxucloud.com:4022
