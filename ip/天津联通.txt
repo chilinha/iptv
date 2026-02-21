@@ -1,3 +1,0 @@
-60.30.67.45:8834
-upload.home.hanxucloud.cn:4022
-web.hanxucloud.com:4022
