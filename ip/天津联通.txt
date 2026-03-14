@@ -1,3 +1,0 @@
-home.techua.cn:8000
-home.techua.net:8000
-upload.home.hanxucloud.cn:4022
